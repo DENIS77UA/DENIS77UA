@@ -1,1 +1,4 @@
-printf (hello, World \n)
+int main
+{
+printf( "hello, World" ) ;
+}
